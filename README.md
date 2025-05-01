@@ -83,6 +83,9 @@ GitHub Actions 会每日 00:00（UTC 时间）自动运行：
 
 ---
 
+## 🕹 搭建流程
+
+- 本教程来自于[Joey blog]（https://joeyblog.net/%e5%85%8d%e8%b4%b9%e6%90%ad%e5%bb%bacloudflare%e8%8a%82%e7%82%b9%ef%bc%8c%e5%ae%9e%e7%8e%b0%e8%87%aa%e5%8a%a8%e6%9b%b4%e6%96%b0%e4%b8%8e%e9%ab%98%e9%80%9f%e8%ae%bf%e9%97%ae%ef%bc%9b%e6%89%8b%e6%8a%8a.html）
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=byJoey/wk-Auto-update&type=Timeline)](https://www.star-history.com/#byJoey/wk-Auto-update&Timeline)
